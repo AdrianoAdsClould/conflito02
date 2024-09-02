@@ -7,4 +7,4 @@ function farewell(name) {
     return `Bye, ${name}!`; 
 }
 
-module.exports = { greet, farewell };
+module.exports = { greet };
